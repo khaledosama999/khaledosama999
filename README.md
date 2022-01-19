@@ -49,12 +49,10 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
+<br/>
+<img align="left" alt="Khaled's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khaledosama999&count_private=true&show_icons=true" />
 
-  <img align="left" alt="Khaled's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khaledosama999&count_private=true&show_icons=true" />
-
-</details>
 
 [Linkedin]: https://www.linkedin.com/in/khaled-osama-565a75197
 [Upwork]: https://www.upwork.com/freelancers/~019325192c4a724013?viewMode=1
