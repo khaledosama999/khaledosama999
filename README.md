@@ -20,8 +20,8 @@
 <img align="left" style="margin-right:15px;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right:15px;" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" style="margin-right:15px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" style="margin-right:15px;" alt="GCP" width="26px" src="https://nordcloud.com/wp-content/uploads/2020/10/GCP-logo.png"  />
 <img align="left" style="margin-right:15px;" alt="Docker" width="26px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" />
-<img align="left" style="margin-right:15px;" alt="Docker compose" width="26px" src="https://qamaralikhan.com/img/docker-compose.jpeg"  />
 <img align="left" style="margin-right:15px;" alt="K8" width="26px" src="https://kubernetes.io/images/favicon.png" />
 <img align="left" style="margin-right:15px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" style="margin-right:15px;" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
@@ -37,7 +37,7 @@
 
 ---
 
-### :zap: Recent GitHub Activity
+### :zap: Recent GitHub Achievements
 <br />
 
 <!--START_SECTION:activity-->
