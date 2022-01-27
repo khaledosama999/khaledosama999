@@ -41,8 +41,9 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#851](https://github.com/withfig/autocomplete/pull/851) in [fig.io/auto-complete](https://github.com/withfig/autocomplete)
-2. ❗️ Closed issue [#9902](https://github.com/Automattic/mongoose/pull/9902) in [automattic/moongose](https://github.com/Automattic/mongoose)
+1. ❗️ Closed issue [#868](https://github.com/withfig/autocomplete/pull/868) in [fig.io/auto-complete](https://github.com/withfig/autocomplete)
+2. ❗️ Closed issue [#851](https://github.com/withfig/autocomplete/pull/851) in [fig.io/auto-complete](https://github.com/withfig/autocomplete)
+3. ❗️ Closed issue [#9902](https://github.com/Automattic/mongoose/pull/9902) in [automattic/moongose](https://github.com/Automattic/mongoose)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
