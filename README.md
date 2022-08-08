@@ -3,7 +3,7 @@
 ## I'm a Software engineer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Increase my knowledge in devops and system design
+- 🥅 Goals: Increase my knowledge in front-end, mobile applications, devops and system design
 - ⚡ Fun fact: I love to play football and video games
 
 ### Connect with me:
