@@ -1,16 +1,13 @@
 ### Hi there, I'm Khaled Osama 👋 
 
 ## I'm a Software engineer !!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Increase my knowledge in front-end, mobile applications, devops and system design
-- ⚡ Fun fact: I love to play football and video games
+I have 5 years of experince in my favorite tech stack JS/TS across back-end, web and mobile
 
 ### Connect with me:
 
-[<img align="left" style="margin-right: 15px;" alt="Upwork" width="22px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ddefbdcced35197aecd1eb06f033445d/upwork.png" />][Upwork]
-[<img align="left" style="margin-right: 15px;" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-
+[<img align="left" style="margin-right: 15px;" alt="Upwork" width="22px" height="22px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ddefbdcced35197aecd1eb06f033445d/upwork.png" />][Upwork]
+[<img align="left" style="margin-right: 15px;" alt="LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" style="margin-right: 15px;" alt="Medium" width="22px" height="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYavdS5ILF9gWk5mQ5tMdoE8y_wtkTuAhJvw&s" />][Medium]
 
 <br />
 
@@ -53,3 +50,4 @@
 
 [Linkedin]: https://www.linkedin.com/in/khaled-osama-565a75197
 [Upwork]: https://www.upwork.com/freelancers/~019325192c4a724013?viewMode=1
+[Medium]: https://medium.com/@khaledosama52
