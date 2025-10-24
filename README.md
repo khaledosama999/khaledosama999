@@ -1,7 +1,9 @@
 ### Hi there, I'm Khaled Osama 👋 
 
 ## I'm a Software engineer !!
-I have 5 years of experince in my favorite tech stack JS/TS across back-end, web and mobile
+Product-focused full-stack engineer (back-end oriented) with 5+ years of experience in TS/JS stack. Actively engages in
+decision-making, from design to business strategy. Passionate about OSS contributions as a way to learn and give back to the
+community.
 
 ### Connect with me:
 
