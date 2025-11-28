@@ -6,7 +6,9 @@ decision-making, from design to business strategy. Passionate about OSS contribu
 community.
 
 ## Website
-[Khaled Osama]: https://khaled-osama.netlify.app/
+
+[Khaled Osama](https://khaled-osama.netlify.app/)
+
 ---
 
 ### :zap: Recent GitHub Achievements
