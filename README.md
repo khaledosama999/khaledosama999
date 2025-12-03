@@ -35,7 +35,7 @@ const khaled = {
 
 ## 🏢 Career Journey
 
-### <img src="https://www.sakneen.com/favicon.ico" width="20"/> **Senior FullStack/A.I Engineer** @ [Sakneen](https://www.sakneen.com/)
+### 🏠 **Senior FullStack/A.I Engineer** @ [Sakneen](https://www.sakneen.com/)
 *Dec 2020 - Jun 2022, Sep 2024 - Present*
 
 Real estate SaaS platform providing end-to-end solutions for developers
@@ -45,7 +45,7 @@ Real estate SaaS platform providing end-to-end solutions for developers
 
 ---
 
-### <img src="https://www.pleo.io/favicon.ico" width="20"/> **Mid FullStack Engineer** @ [Pleo](https://www.pleo.io/)
+### 💳 **Mid FullStack Engineer** @ [Pleo](https://www.pleo.io/)
 *Aug 2022 - Aug 2024*
 
 Fintech company automating expense management for businesses
@@ -213,11 +213,3 @@ Learning management system for schools
 </div>
 
 ---
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=khaledosama999&color=blueviolet&style=for-the-badge)
-
-**⭐ From [khaledosama999](https://github.com/khaledosama999)**
-
-</div>
