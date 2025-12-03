@@ -183,9 +183,7 @@ Learning management system for schools
 
 <div align="center">
 
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledosama999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledosama999&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub](https://img.shields.io/badge/View_Full_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledosama999)
 
 </div>
 
