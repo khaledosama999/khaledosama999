@@ -195,7 +195,10 @@ Learning management system for schools
 
 <div align="center">
 
-### 🐍 Watch my contribution graph get eaten by a snake!
+### 📊 GitHub Activity
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+[![GitHub followers](https://img.shields.io/github/followers/khaledosama999?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/khaledosama999)
+[![GitHub Stars](https://img.shields.io/github/stars/khaledosama999?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/khaledosama999)
+
+</div>
 
