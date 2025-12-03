@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Khaled Osama
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Senior+Full-Stack+Engineer;Backend+Oriented+%7C+5%2B+Years;Open+Source+Contributor;Tech+Blogger+%40+Medium" alt="Typing SVG" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-osama-565a75197/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khaledosama52)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019325192c4a724013)
@@ -201,10 +199,3 @@ Learning management system for schools
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=khaledosama999&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Thanks for visiting! Let's build something amazing together 🚀**
-
-</div>
