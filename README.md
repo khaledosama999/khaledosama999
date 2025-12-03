@@ -177,11 +177,15 @@ Learning management system for schools
 
 <div align="center">
 
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledosama999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<a href="https://github.com/khaledosama999">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khaledosama999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Khaled's GitHub stats" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=khaledosama999&theme=tokyonight&hide_border=true)
+<a href="https://github.com/khaledosama999">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khaledosama999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledosama999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledosama999&theme=tokyo-night&hide_border=true)](https://github.com/khaledosama999)
 
 </div>
 
