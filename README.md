@@ -2,6 +2,8 @@
 
 # 👋 Hi there, I'm Khaled Osama
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Senior+Full-Stack+Engineer;Backend+Oriented+%7C+5%2B+Years;Open+Source+Contributor;Tech+Blogger+%40+Medium" alt="Typing SVG" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-osama-565a75197/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khaledosama52)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019325192c4a724013)
@@ -9,11 +11,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaled-osama.netlify.app/)
 [![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://khaled-osama.netlify.app/Khaled_Osama.pdf)
 
-### 🚀 Product-focused Full-Stack Engineer | Backend Oriented | OSS Contributor
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 About Me
 
@@ -31,7 +31,7 @@ const khaled = {
 
 > *Senior full-stack engineer by day, Tech blogger and open source enthusiast by night* 🌙
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏢 Career Journey
 
@@ -85,7 +85,7 @@ Learning management system for schools
 - 🔧 REST API design and maintenance using **Express.js**
 - 📚 Conducted technical sessions on **TypeScript** and **SSH**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -124,7 +124,7 @@ Learning management system for schools
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 Open Source Contributions
 
@@ -162,7 +162,7 @@ Learning management system for schools
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✍️ Latest Blog Posts
 
@@ -177,7 +177,7 @@ Learning management system for schools
 
 ➡️ [More articles on Medium](https://medium.com/@khaledosama52)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
@@ -193,4 +193,18 @@ Learning management system for schools
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=khaledosama999&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+</div>
