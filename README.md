@@ -56,7 +56,7 @@ Fintech company automating expense management for businesses
 
 ---
 
-### <img src="https://www.upwork.com/favicon.ico" width="20"/> **Freelance FullStack Engineer** @ [Upwork](https://www.upwork.com/freelancers/~019325192c4a724013)
+### 💼 **Freelance FullStack Engineer** @ [Upwork](https://www.upwork.com/freelancers/~019325192c4a724013)
 *Jun 2021 - Present*
 
 <div align="center">
@@ -68,7 +68,13 @@ Fintech company automating expense management for businesses
 
 </div>
 
-> *"Khaled is amazing! Communicates better than anyone I've ever hired on Upwork. Is skilled and smart enough to produce exactly what I wanted."* - Client Review ⭐⭐⭐⭐⭐
+#### 💬 What clients say about me
+
+> *"I can't say enough things about Khaled. If you hire him, you will be very happy with his service as a freelancer. I've hired a lot of people on Upwork over the years, and no one comes close to the complete package that Khaled is. 10/10."* ⭐⭐⭐⭐⭐
+
+> *"He is essential to our business, we absolutely need him. When anything goes wrong on our website, he is there for us: responsive, intelligent, and able to fix all our problems. If you hire Khaled, regardless of your task, you will not be disappointed."* ⭐⭐⭐⭐⭐
+
+> *"Khaled is amazing! Communicates better than anyone I've ever hired on Upwork. Is skilled and smart enough to produce exactly what I wanted, how I wanted it. I recommend him to anyone who wants a top quality developer with top tier communication skills."* ⭐⭐⭐⭐⭐
 
 ---
 
@@ -173,6 +179,18 @@ Learning management system for schools
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledosama999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledosama999&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -184,18 +202,6 @@ Learning management system for schools
 
 [![Hire me on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019325192c4a724013)
 [![Download CV](https://img.shields.io/badge/📄_Download_CV-4285F4?style=for-the-badge&logoColor=white)](https://khaled-osama.netlify.app/Khaled_Osama.pdf)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 What clients say about me
-
-> *"I can't say enough things about Khaled. If you hire him, you will be very happy with his service. I've hired a lot of people on Upwork over the years, and no one comes close to the complete package that Khaled is. 10/10."*
-
-> *"He is essential to our business, we absolutely need him. When anything goes wrong on our website, he is there for us: responsive, intelligent, and able to fix all our problems."*
 
 </div>
 
