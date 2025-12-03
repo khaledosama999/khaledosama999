@@ -183,7 +183,7 @@ Learning management system for schools
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_Full_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledosama999)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledosama999&show_icons=true&theme=radical)
 
 </div>
 
