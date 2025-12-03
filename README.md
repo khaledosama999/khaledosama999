@@ -179,16 +179,6 @@ Learning management system for schools
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledosama999&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
