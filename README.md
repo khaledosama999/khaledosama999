@@ -134,6 +134,7 @@ Learning management system for schools
 |:---:|:---:|:---:|
 | 🍃 **Mongoose** | MongoDB ODM Enhancement | [![PR](https://img.shields.io/badge/PR_%239902-Merged-success?style=flat-square&logo=github)](https://github.com/Automattic/mongoose/pull/9902) |
 | ⚡ **Fig Autocomplete** | Terminal Completion Specs | [![PRs](https://img.shields.io/badge/Multiple_PRs-Merged-success?style=flat-square&logo=github)](https://github.com/withfig/autocomplete/pulls?q=is:pr+author:khaledosama999+is:closed) |
+| 🪟 **Rectangle** | Window Manager App Enhancement | [![PR](https://img.shields.io/badge/PR_%231678-Merged-success?style=flat-square&logo=github)](https://github.com/rxhanson/Rectangle/pull/1678) |
 
 ---
 
